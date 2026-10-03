@@ -219,3 +219,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+customer_env/
+customer_data/*.db
+customer_data/artifacts/*.csv
